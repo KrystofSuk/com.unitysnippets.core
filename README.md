@@ -15,7 +15,7 @@ The plugin doesn't need any special dependencies or versions of Unity. The only 
 
 ## Wiki
 
-You can find more about the individual scripts and how to use them in **Wiki** tab.
+You can find more about the individual scripts and how to use them in **[wiki](https://github.com/KrystofSuk/com.unitysnippets.core/wiki).**.
 
 ## Contribution
 
