@@ -11,7 +11,7 @@ The plugin doesn't need any special dependencies or versions of Unity. The only 
 * Open your Unity project and go to `Window/Package Manager`
 * Click the `+` and `Add package from git URL...`
 * Paste `https://github.com/KrystofSuk/com.unitysnippets.core.git`
-* Use it :v: 
+* Use it :v: you can find the scripts in `Add Component/Unity Snippets` or `Components/Unity Snippets`
 
 ## Wiki
 
