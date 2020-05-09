@@ -9,10 +9,10 @@ public class MaterialDefaultSetterEditor : Editor
     public override void OnInspectorGUI()
     {
         DrawDefaultInspector();
-        MaterialDefaultSetter signal = (MaterialDefaultSetter)target;
+        MaterialDefaultSetter material = (MaterialDefaultSetter)target;
         if(GUILayout.Button("Set Default"))
         {
-            signal.Set();
+            material.Set();
         }
     }
 }
