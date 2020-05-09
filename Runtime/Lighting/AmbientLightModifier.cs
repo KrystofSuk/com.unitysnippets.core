@@ -5,7 +5,7 @@ using UnityEngine;
 namespace UnitySnippets
 {
     [ExecuteInEditMode]
-    [AddComponentMenu("Unity Snippets/Lightning/Ambient Lightning")]
+    [AddComponentMenu("Unity Snippets/Lighting/Ambient Lighting")]
     public class AmbientLightModifier : MonoBehaviour
     {
         [ColorUsage(false, true)] public Color ambientColor = Color.white;
