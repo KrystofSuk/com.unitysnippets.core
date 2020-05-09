@@ -6,11 +6,16 @@
     "unity": "2019.1",
     "unityRelease": "0b5",
     "keywords": [
-        "Snippets"
+        "snippets",
+        "tools",
+        "easy"
     ],
     "author": {
         "name": "Krystof Suk",
         "email": "suk.krystof@gmail.com",
-        "url": "https://www.unity3d.com"
+        "url": "https://www.linkedin.com/in/kry%C5%A1tof-%C5%A1uk-503433b6/"
+    },
+    "repository": {
+        "type": "git"
     }
   }

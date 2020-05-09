@@ -1,0 +1,15 @@
+{
+    "name": "com.unitysnippets.core.editor",
+    "references": [
+        "com.unitysnippets.core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
