@@ -5,7 +5,6 @@ using UnityEngine;
 public class SignalObject : ScriptableObject {
     public Action signalAction;
     public void CallSignal(){
-        Debug.Log("Signal");
         signalAction?.Invoke();
     }
 }

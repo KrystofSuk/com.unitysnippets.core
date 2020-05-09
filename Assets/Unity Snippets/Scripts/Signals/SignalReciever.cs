@@ -7,7 +7,7 @@ using UnityEngine.Events;
 public class SignalReciever : MonoBehaviour
 {
     [SerializeField] SignalObject signal = null;
-    [SerializeField] UnityEvent onSignal = null;
+    [SerializeField] UnityEvent signalEvent = null;
 
     private void Awake() {
         if(signal == null){
@@ -19,8 +19,7 @@ public class SignalReciever : MonoBehaviour
 
     private void SignalRecieved()
     {
-        Debug.Log("Recieved");
-        onSignal.Invoke();
+        signalEvent.Invoke();
     }
 
     private void OnDestroy() {
