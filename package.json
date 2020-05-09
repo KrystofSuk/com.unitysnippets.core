@@ -1,21 +1,22 @@
 {
-    "name": "com.unitysnippets.core",
-    "version": "0.1.1",
-    "displayName": "Untiy Snippets",
-    "description": "Few useful snippets for easier work with Unity.",
-    "unity": "2019.1",
-    "unityRelease": "0b5",
-    "keywords": [
-        "snippets",
-        "tools",
-        "easy"
-    ],
-    "author": {
-        "name": "Krystof Suk",
-        "email": "suk.krystof@gmail.com",
-        "url": "https://www.linkedin.com/in/kry%C5%A1tof-%C5%A1uk-503433b6/"
-    },
-    "repository": {
-        "type": "git"
-    }
-  }
+  "name": "com.unitysnippets.core",
+  "version": "0.1.1",
+  "displayName": "Unity Snippets",
+  "description": "Few useful snippets for easier work with Unity.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "snippets",
+    "tools",
+    "easy"
+  ],
+  "author": {
+    "name": "Krystof Suk",
+    "email": "suk.krystof@gmail.com",
+    "url": "https://www.linkedin.com/in/kry%C5%A1tof-%C5%A1uk-503433b6/"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "type": "tool"
+}
