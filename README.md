@@ -19,10 +19,7 @@ You can find more about the individual scripts and how to use them in **[wiki](h
 
 ## Contribution
 
-If you find a **bug**, have an **issue** or would have an **idea** for improvement, please contact us via the [issue tracker](https://github.com/KrystofSuk/com.unitysnippets.core/issues).
-
-## Contribution
-
+If you find a **bug**, have an **issue** or would have an **idea** for improvement, please contact us via the [issue tracker](https://github.com/KrystofSuk/com.unitysnippets.core/issues).<br>
 Feel free to improve this package. I would be grateful. Just make a pull request.
 
 ## Credits
