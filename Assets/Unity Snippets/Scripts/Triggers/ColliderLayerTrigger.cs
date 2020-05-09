@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
+[AddComponentMenu("Unity Snippets/Triggers/Collider Layer")]
 public class ColliderLayerTrigger : MonoBehaviour
 {
     [SerializeField] UnityEvent triggerEvent = null;

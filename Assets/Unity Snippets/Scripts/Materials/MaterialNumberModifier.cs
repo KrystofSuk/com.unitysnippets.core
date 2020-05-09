@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [ExecuteInEditMode]
+[AddComponentMenu("Unity Snippets/Materials/Number Modifier")]
 public class MaterialNumberModifier : MonoBehaviour
 {
     [SerializeField] Material material = null;

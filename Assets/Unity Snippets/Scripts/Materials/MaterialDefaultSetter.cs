@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[AddComponentMenu("Unity Snippets/Materials/Default Setter")]
 public class MaterialDefaultSetter : MonoBehaviour
 {
     [SerializeField] Material targetMaterial = null;

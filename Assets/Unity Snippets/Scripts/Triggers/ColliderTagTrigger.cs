@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
+[AddComponentMenu("Unity Snippets/Triggers/Collider Tag")]
 public class ColliderTagTrigger : MonoBehaviour
 {
     [SerializeField] UnityEvent triggerEvent = null;

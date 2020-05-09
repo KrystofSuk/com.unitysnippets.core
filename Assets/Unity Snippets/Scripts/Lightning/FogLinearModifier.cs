@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [ExecuteInEditMode]
+[AddComponentMenu("Unity Snippets/Lightning/Linear Fog")]
 public class FogLinearModifier : MonoBehaviour
 {
     [ColorUsage(false, true)] public Color fogColor = Color.white;

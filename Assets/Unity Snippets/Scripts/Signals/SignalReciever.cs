@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
+[AddComponentMenu("Unity Snippets/Signals/Reciever")]
 public class SignalReciever : MonoBehaviour
 {
     [SerializeField] SignalObject signal = null;
