@@ -1,6 +1,6 @@
 {
   "name": "com.unitysnippets.core",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "displayName": "Unity Snippets",
   "description": "Few useful snippets for easier work with Unity.",
   "unity": "2019.1",
@@ -16,7 +16,8 @@
     "url": "https://www.linkedin.com/in/kry%C5%A1tof-%C5%A1uk-503433b6/"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/KrystofSuk/com.unitysnippets.core.git"
   },
   "type": "tool"
 }
