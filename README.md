@@ -15,11 +15,11 @@ The plugin doesn't need any special dependencies or versions of Unity. The only 
 
 ## Wiki
 
-You can find more about the individual scripts and how to use them in **[wiki](https://github.com/KrystofSuk/com.unitysnippets.core/wiki).**.
+You can find more about the individual scripts and how to use them in **[wiki](https://github.com/KrystofSuk/com.unitysnippets.core/wiki)**.
 
 ## Contribution
 
-If you find a **bug**, have an **issue** or would have an **idea** for improvement, please contact us via the [issue tracker](https://github.com/KrystofSuk/com.unitysnippets.core/issues).<br>
+If you find a **bug**, have an **issue** or would have an **idea** for improvement, please contact us via the **[issue tracker](https://github.com/KrystofSuk/com.unitysnippets.core/issues)**.<br>
 Feel free to improve this package. I would be grateful. Just make a pull request.
 
 ## Credits
