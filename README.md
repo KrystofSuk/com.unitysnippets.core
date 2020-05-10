@@ -1,6 +1,6 @@
 # Unity Snippets
 
-<img src="https://img.shields.io/badge/version-0.1.2-red.svg?style=flat-square" alt="version 0.1.2"> <img src="https://img.shields.io/badge/supported-2019+-blue.svg?style=flat-square" alt="unity 2019+">
+<img src="https://img.shields.io/badge/version-0.1.3-red.svg?style=flat-square" alt="version 0.1.3"> <img src="https://img.shields.io/badge/supported-2019+-blue.svg?style=flat-square" alt="unity 2019+">
 
 Small Unity plugin containing some useful scripts. They can help less development-oriented people to express their ideas and easily integrate and modify Unity parts with **Animators**. Every snippet's **color and float** propery **can be animated**! It is a collection of my scripts from many other projects and modified to feedback that I got from colleagues, designers, and other collaborators.
 
